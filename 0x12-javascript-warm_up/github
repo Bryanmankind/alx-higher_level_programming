@@ -1,0 +1,5 @@
+#!/usr/bin/node
+
+git add .
+git commit -m 'javascript'
+git push
