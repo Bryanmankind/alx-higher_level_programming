@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/bin/bash
 
 git add .
 git commit -m 'javascript'
