@@ -2,6 +2,6 @@
 let a,b;
 function add (a, b) {
 	let sum = a + b;
-	console.log(sum);
+	console.log (sum);
 }
 add (a,b);
