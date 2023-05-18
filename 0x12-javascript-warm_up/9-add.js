@@ -1,6 +1,7 @@
-
-n add (a, b) {
-  return a + b;
+#!/usr/bin/node
+function add(a,b){
+	costant sum = a+b;
+	console.log (sum);
 }
 
-console.log(add(Number(process.argv[2]), Number(process.argv[3])));
+add(a,b);
